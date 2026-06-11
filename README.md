@@ -7,7 +7,8 @@ Interactive Excel dashboard analysing UK road accident data (2021–2022)
 
 # 🚗 Road Accidents Analysis Dashboard (2021–2022)
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)<img width="1285" height="560" alt="dashboard" src="https://github.com/user-attachments/assets/8538fe93-d48a-4c49-87bb-41f8843b8254" />
+
 
 ## 📌 Project Overview
 As part of a data analytics project, I was tasked as a Data Scientist to perform 
