@@ -35,10 +35,10 @@ patterns. This project addresses that by cleaning, analysing, and visualising th
 | Slight Casualties | 263,280 (87%) |
 
 ## 🔍 Key Findings
-- **Daylight accidents are more serious** than night-time — likely due to higher traffic volumes and driver overconfidence
+- **Daylight accidents are more serious** than night-time accidents,  likely due to higher traffic volumes and driver overconfidence
 - **Rural areas** see more severe accidents due to higher speeds, poorer road conditions, and longer emergency response times
 - **30mph zones** record the most accidents, driven by urban traffic density and mixed road users
-- **Dry roads** account for the majority of casualties (279.4k) — driver overconfidence plays a key role
+- **Dry roads** account for the majority of casualties (279.4k) driver overconfidence plays a key role
 - **Fine weather** also sees high accident rates, again linked to overconfidence and distraction
 
 ## 🛠️ Tools Used
