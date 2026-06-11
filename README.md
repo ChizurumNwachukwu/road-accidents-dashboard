@@ -3,11 +3,10 @@ Interactive Excel dashboard analysing UK road accident data (2021–2022)
 ## 📥 Download the Dashboard
 > The file exceeds GitHub's size limit and is hosted externally on dropbox. Please ignore the message that says "Too big to load" and click download on the dropbox page after clicking "Download Excel Dashboard" below.
 
-<img width="1285" height="560" alt="Preview of dashboard" src="https://github.com/user-attachments/assets/8eb15a77-31fc-447c-b370-a6eee970396a" />
-
 # 🚗 Road Accidents Analysis Dashboard (2021–2022)
 
-![Dashboard Preview](dashboard_preview.png)<img width="1285" height="560" alt="dashboard" src="https://github.com/user-attachments/assets/8538fe93-d48a-4c49-87bb-41f8843b8254" />
+<i wmgidth="1285" height="560" alt="Preview of dashboard" src="https://github.com/user-attachments/assets/8eb15a77-31fc-447c-b370-a6eee970396a" />
+
 
 
 ## 📌 Project Overview
